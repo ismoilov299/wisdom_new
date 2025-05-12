@@ -49,7 +49,7 @@ TEXT_MAIN_MENU = {
 
 BTN_BOOK = {
     1:"📚 Kitoblar",
-    2:"🛠товары"
+    2:"📚Книги"
 }
 
 TEXT_ALL = {
